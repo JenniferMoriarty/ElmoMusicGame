@@ -19,6 +19,7 @@ using namespace std;
  
 #include<Windows.h> //because I was too lazy to download wav files for each scale note :/
 
+//what are constants and why is it seen as good practice to use them?
 const float FPS = 60;
 const int SCREEN_W = 1000;
 const int SCREEN_H = 600;
